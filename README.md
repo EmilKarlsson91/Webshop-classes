@@ -6,4 +6,4 @@ klona repot och kör kommandot "mvn install"
 
 https://github.com/EmilKarlsson91/webshop-webservice
 
-https://github.com/EmilKarlsson91/Webshop-client
+https://github.com/EmilKarlsson91/webshop-client
